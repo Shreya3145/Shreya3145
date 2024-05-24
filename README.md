@@ -1,10 +1,9 @@
 - 👋 Hello, I’m Shreya
 - 🎓 Sophomore @ Panimalar Engineering College
-- 🌱 Beginner in Java, C and Python 
+- 🌱 Beginner in Java, C, Python and HTML/CSS/JS
 - 🩷 I love 3D designing in Blender
 - 💻 Beginner in UI/UX designing in Figma
 - 📑 I have presented two conference papers at the 7th International Conference on Intelligence Computing (IConIC)
-- 😄 Pronouns: she/her
 - 📍 I love turning innovative ideas into functional prototypes!
 
 <!---
