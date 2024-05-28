@@ -1,12 +1,25 @@
-- 👋 Hello, I’m Shreya
-- 🎓 Sophomore @ Panimalar Engineering College
-- 🌱 Beginner in Java, C, Python and HTML/CSS/JS
-- 🩷 I love 3D designing in Blender
-- 💻 Beginner in UI/UX designing in Figma
-- 📑 I have presented two conference papers at the 7th International Conference on Intelligence Computing (IConIC)
-- 📍 I love turning innovative ideas into functional prototypes!
+# Hi there! 👋 I'm Shreya
 
-<!---
-Shreya3145/Shreya3145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+
+🎓 Sophomore at Panimalar Engineering College, Chennai  
+👩‍💻 Pursuing B.Tech in Computer Science and Business Systems  
+🔍 CGPA: 8.97
+
+### Skills & Expertise
+
+- **Programming Languages**: Java and C
+- **Web Development**: HTML, CSS, JavaScript, Firebase
+- **Additional Interests**: 3D design, Communication, Teaching
+
+### Interests
+
+- 💻 Software Development
+- 🌐 Backend Development
+- 🎨 3D Design(Blender)
+- 📢 Communication & Teaching
+
+### Goals
+
+🚀 Aspire to become a Software Development Engineer proficient in tackling real-world problems and delivering efficient solutions.  
+🔭 Exploring opportunities in web development, particularly interested in backend development.
