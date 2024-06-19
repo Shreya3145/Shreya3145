@@ -6,13 +6,17 @@
 👩‍💻 Pursuing B.Tech in Computer Science and Business Systems  
 🔍 CGPA: 8.97
 
-### Skills & Expertise
-- **Programming Languages**: Java and C
-- **Web Development**: HTML, CSS, JavaScript, Firebase
-- **Additional Interests**: 3D design, Communication, Teaching
+### Novice in, 
+- **Programming Languages**: Java, Python, C, JavaScript, Python, Flutter and C#
+- **Web Development**: HTML, CSS, JavaScript, React, Vite
+- **Backend Technologies**: MySQL, Firebase, MongoDB
+- **Cloud Technologies**: AWS, GCP, Azure sandboxes
 
 ### Interests
 - 💻 Software Development
 - 🌐 Backend Development
 - 🎨 3D Design(Blender)
 - 📢 Communication & Teaching
+- 🔐 Cybersecurity 
+
+💼 Seeking opportunities in software development, particularly interested in backend development. Passionate about tackling real-world challenges and delivering efficient solutions.
