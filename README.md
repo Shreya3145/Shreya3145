@@ -2,7 +2,7 @@
 
 ### About Me
 
-🎓 Sophomore at Panimalar Engineering College, Chennai  
+🎓 Pre-final year at Panimalar Engineering College, Chennai  
 👩‍💻 Pursuing B.Tech in Computer Science and Business Systems  
 🔍 CGPA: 8.97
 
