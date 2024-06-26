@@ -10,7 +10,7 @@
 - **Programming Languages**: Java, Python, C, JavaScript, Python, Flutter and C#
 - **Web Development**: HTML, CSS, JavaScript, React, Vite
 - **Backend Technologies**: MySQL, Firebase, MongoDB
-- **Cloud Technologies**: AWS, GCP, Azure sandboxes
+- **Cloud Technologies**: AWS, GCP, Azure..
 
 ### Interests
 - 💻 Software Development
