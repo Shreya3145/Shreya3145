@@ -1,5 +1,4 @@
 # Hey there! 👋 I'm Shreya
-
 ## About Me
 🎓 I'm a pre-final year B.Tech student in **Computer Science and Business Systems** at **Panimalar Engineering College, Chennai**, with a **CGPA of 8.88**.  
 💡 I’m an enthusiastic learner with a passion for exploring the intersection of technology and creativity, particularly through **software development, 3D design, cloud computing,** and **UI/UX**.
