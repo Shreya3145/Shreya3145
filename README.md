@@ -7,9 +7,9 @@
 
 ## 📊 Coding Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya3145)
-![HackerRank Stats](link_to_your_hackerrank_infographic)  
-![Project Euler Stats](link_to_your_project_euler_infographic)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya3145?theme=dark)
+![HackerRank Stats](https://www.hackerrank.com/profile/sudhashreya07)
+![Project Euler Stats](https://projecteuler.net/profile/Shrey_a.png)
 
 ---
 
@@ -20,11 +20,7 @@
 - **Frontend**: Flutter, HTML/CSS, React(Vite), JS
 - **Cloud**: AWS and GCP
 - **3D Design & UI/UX**: Figma, Canva and Blender
+- **Working on**: Docker, Kubernetes, and Go to build scalable systems.
 
 ---
-
-## 🌟 Highlights
-
-- Member of **EDC** and **GDSC**
-- Presented Conference Papers at **IConIC 7**
 
