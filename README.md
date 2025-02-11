@@ -7,7 +7,7 @@
 
 ## 📊 Coding Stats
 
-![Leetcode Stats](https://leetcard.com/Shreya3145/theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya3145)
 ![HackerRank Stats](link_to_your_hackerrank_infographic)  
 ![Project Euler Stats](link_to_your_project_euler_infographic)
 
