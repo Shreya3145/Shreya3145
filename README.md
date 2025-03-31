@@ -18,7 +18,7 @@
 - **Frontend**: Flutter, HTML/CSS, React(Vite), JS
 - **Cloud**: AWS and GCP
 - **3D Design & UI/UX**: Figma, Canva and Blender
-- **Working on**: Docker, Kubernetes, and Go to build scalable systems.
+- **Working on**: Docker, Kubernetes, and Go.
 
 ---
 
