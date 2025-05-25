@@ -13,12 +13,12 @@
 
 ## 💡 Skills
 
-- **Languages**: Java, C, CSharp, Python, R
+- **Languages**: Java, C, CSharp, Python, R, JavaScript
 - **Backend**: MySQL, Firebase, MongoDB
 - **Frontend**: Flutter, HTML/CSS, React(Vite), JS
 - **Cloud**: AWS and GCP
 - **3D Design & UI/UX**: Figma, Canva and Blender
-- **Working on**: Docker, Kubernetes, and Go.
+- **Learning on**: Docker and Kubernetes
 
 ---
 
