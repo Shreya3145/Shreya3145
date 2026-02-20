@@ -10,15 +10,11 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya3145?theme=dark)<br>
 
 ---
+## Repos
 
-## 💡 Skills
-
-- **Languages**: Java, C, CSharp, Python, R, JavaScript
-- **Backend**: MySQL, Firebase
-- **Frontend**: Flutter, HTML/CSS, React(Vite), JS
-- **Cloud**: AWS and GCP
-- **3D Design & UI/UX**: Figma, Canva and Blender
-- **Learning on**: Docker and Jenkins
+- **Problem Solving**: 3
+- **Project**: 8
+- **Internship**: 1
 
 ---
 
