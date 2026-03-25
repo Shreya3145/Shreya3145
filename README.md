@@ -5,11 +5,19 @@
 
 ---
 
-## 📊 Coding Stats
+## 📊 Coding Profiles
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya3145?theme=dark)<br>
+<p align="center">
+  <a href="https://leetcode.com/Shreya3145">
+    <img src="https://leetcard.jacoblin.cool/Shreya3145?theme=dark&font=baloo&extension=heatmap" />
+  </a>
+</p>
 
-![HackerRank Badge](https://hackerrank-badges.vercel.app/shreya3145)<br>
+<p align="center">
+  <a href="https://www.hackerrank.com/shreya3145">
+    <img src="https://hackerrank-badges.vercel.app/shreya3145" height="120"/>
+  </a>
+</p>
 
 ---
 ## Repos
