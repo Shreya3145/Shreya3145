@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Shreya
 
 ## About Me
-🎓 Final year B.Tech student in **Computer Science and Business Systems** at **Panimalar Engineering College, Chennai**. Passionate about **software development**, **cloud computing**, and **UI/UX design**.
+🎓 Final year B.Tech student in **Computer Science and Business Systems** at **Panimalar Engineering College, Chennai**.
 
 ---
 
