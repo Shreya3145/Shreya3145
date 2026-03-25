@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/Shreya3145">
-    <img src="https://leetcard.jacoblin.cool/Shreya3145?theme=dark&font=baloo&extension=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/Shreya3145?theme=dark" />
   </a>
 </p>
 
