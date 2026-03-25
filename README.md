@@ -9,6 +9,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Shreya3145?theme=dark)<br>
 
+![HackerRank Badge](https://hackerrank-badges.vercel.app/shreya3145)<br>
+
 ---
 ## Repos
 
