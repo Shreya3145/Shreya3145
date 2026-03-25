@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/shreya3145">
-    <img src="https://hackerrank-badges.vercel.app/shreya3145" height="120"/>
+    <img src="https://hackerrank-badges.vercel.app/shreya3145" height="240"/>
   </a>
 </p>
 
