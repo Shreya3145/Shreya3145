@@ -16,12 +16,3 @@
   </a>
 </p>
 
----
-## Repos
-
-- **Problem Solving**: 4
-- **Project**: 9
-- **Internship**: 1
-
----
-
