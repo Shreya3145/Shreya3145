@@ -1,10 +1,5 @@
 # Hey there! 👋 I'm Shreya
 
-## About Me
-🎓 Final year B.Tech student in **Computer Science and Business Systems** at **Panimalar Engineering College, Chennai**.
-
----
-
 ## 📊 Coding Profiles
 
 1. LeetCode
