@@ -1,7 +1,3 @@
-# Hey there! 👋 I'm Shreya
-
-## 📊 Coding Profiles
-
 1. LeetCode
 <p align="center">
   <a href="https://leetcode.com/Shreya3145">
@@ -15,4 +11,5 @@
     <img src="https://hackerrank-badges.vercel.app/shreya3145" height="240"/>
   </a>
 </p>
+
 
